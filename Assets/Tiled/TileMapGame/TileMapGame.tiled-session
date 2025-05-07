@@ -3,17 +3,17 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Island0.tmx",
+    "activeFile": "Tilesheet.tsx",
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
         "Island0.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 2,
+            "scale": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 184.99999999999994,
-                "y": 153.33333333333331
+                "x": 35.833333333333314,
+                "y": 3.6666666666666856
             }
         },
         "Tilesheet.tsx": {
@@ -32,8 +32,8 @@
     ],
     "project": "TileMapGame.tiled-project",
     "recentFiles": [
-        "Tilesheet.tsx",
-        "Island0.tmx"
+        "Island0.tmx",
+        "Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
