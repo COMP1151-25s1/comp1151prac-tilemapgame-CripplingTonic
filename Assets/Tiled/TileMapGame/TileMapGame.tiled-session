@@ -3,22 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tilesheet.tsx",
+    "activeFile": "Island0.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
         "Island0.tmx": {
             "scale": 3,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 35.833333333333314,
-                "y": 3.6666666666666856
+                "x": -19.5,
+                "y": 19
             }
         },
         "Tilesheet.tsx": {
             "scaleInDock": 4,
-            "scaleInEditor": 5.5
+            "scaleInEditor": 2.89
         }
     },
     "last.imagePath": "C:/Users/49073117/Documents/Unity/comp1151prac-tilemapgame-CripplingTonic/Assets/Tiled/kenney_monochrome-pirates/Default/Tilemap",
@@ -32,8 +32,8 @@
     ],
     "project": "TileMapGame.tiled-project",
     "recentFiles": [
-        "Island0.tmx",
-        "Tilesheet.tsx"
+        "Tilesheet.tsx",
+        "Island0.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
