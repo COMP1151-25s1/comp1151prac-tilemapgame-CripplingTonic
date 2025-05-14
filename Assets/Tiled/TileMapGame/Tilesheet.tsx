@@ -1,71 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.10" tiledversion="1.11.2" name="Tilesheet" tilewidth="16" tileheight="16" spacing="1" tilecount="136" columns="17">
  <image source="../kenney_monochrome-pirates/Default/Tilemap/tilemap.png" width="288" height="135"/>
- <tile id="3">
+ <tile id="17">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="0" width="4.0251" height="16"/>
-   <object id="3" x="4.02816" y="-0.00309155" width="11.9769" height="4.00753"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
+   <object id="2" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="4">
+ <tile id="18">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="0" width="16" height="4.02481"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="5">
+ <tile id="19">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="12.0381" y="0" width="3.96194" height="16"/>
-   <object id="2" x="0.0833083" y="0.0416542" width="11.9964" height="3.87384"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="20">
+ <tile id="34">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="0" width="3.99161" height="16"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="22">
+ <tile id="35">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="12.0072" y="0" width="3.9928" height="16"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="37">
+ <tile id="36">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="0" width="3.99833" height="16"/>
-   <object id="2" x="3.97881" y="12.0017" width="12.0017" height="4.01143"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="38">
+ <tile id="51">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="11.9752" width="16" height="4.02481"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="39">
+ <tile id="52">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="12.0343" width="16" height="3.96572"/>
-   <object id="2" x="12.0343" y="0.0652265" width="3.9462" height="11.9691"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="55">
+ <tile id="53">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="11.9964" y="12.0381" width="4.0036" height="3.96194"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="56">
+ <tile id="68">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0" y="11.9547" width="4.0036" height="4.04525"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="72">
+ <tile id="69">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="11.9964" y="0" width="4.0036" height="4.0036"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
- <tile id="73">
+ <tile id="70">
   <objectgroup draworder="index" id="2">
-   <object id="2" x="0" y="0" width="4.04525" height="3.96194"/>
+   <object id="1" x="0" y="0" width="16" height="16"/>
+   <object id="2" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
  <tile id="122">
+  <properties>
+   <property name="unity:isTrigger" value="True"/>
+   <property name="unity:layer" value="Hazard"/>
+  </properties>
   <objectgroup draworder="index" id="2">
    <object id="1" x="4.00122" y="4.00781" width="7.99757" height="8.98438">
     <properties>
